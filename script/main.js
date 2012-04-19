@@ -10,7 +10,7 @@ $(document).ready(function()
 
     $('.cascade').cascade(page);
 
-    $.getJSON('http://twitter.com/statuses/user_timeline.json?screen_name=quanticalabs&count=5&callback=?', function(data) 
+    $.getJSON('http://twitter.com/statuses/user_timeline.json?screen_name=renatn&count=5&callback=?', function(data) 
     {
         if(data.length)
         {
