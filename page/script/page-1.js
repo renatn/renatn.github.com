@@ -1,0 +1,1 @@
+$('#slider').nivoSlider({directionNav:false});
