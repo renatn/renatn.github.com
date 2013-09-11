@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://renatn.github.io/sitemap.xml 
