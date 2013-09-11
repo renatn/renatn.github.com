@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://renatn.github.io
+title: My programming blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Renat Nasyrov
 simple_search: http://google.com/search
 description:
 
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: renatn
 twitter_tweet_button: true
 
 # Google +1
