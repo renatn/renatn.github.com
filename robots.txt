@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://renatn.github.io/sitemap.xml 
+Sitemap: http://renatn.com/sitemap.xml 

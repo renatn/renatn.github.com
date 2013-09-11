@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My programming blog]]></title>
-  <link href="http://renatn.github.io/atom.xml" rel="self"/>
-  <link href="http://renatn.github.io/"/>
-  <updated>2013-09-12T01:36:08+04:00</updated>
-  <id>http://renatn.github.io/</id>
+  <link href="http://renatn.com/atom.xml" rel="self"/>
+  <link href="http://renatn.com/"/>
+  <updated>2013-09-12T01:40:41+04:00</updated>
+  <id>http://renatn.com/</id>
   <author>
     <name><![CDATA[Renat Nasyrov]]></name>
     
